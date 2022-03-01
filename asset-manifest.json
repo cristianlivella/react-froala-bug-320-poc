@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.376cbf09.css",
-    "main.js": "/static/js/main.de674b2c.js",
-    "static/js/787.9cd28337.chunk.js": "/static/js/787.9cd28337.chunk.js",
-    "index.html": "/index.html",
-    "main.376cbf09.css.map": "/static/css/main.376cbf09.css.map",
-    "main.de674b2c.js.map": "/static/js/main.de674b2c.js.map",
-    "787.9cd28337.chunk.js.map": "/static/js/787.9cd28337.chunk.js.map"
+    "main.css": "/react-froala-bug-320-poc/static/css/main.376cbf09.css",
+    "main.js": "/react-froala-bug-320-poc/static/js/main.d0b62f0f.js",
+    "static/js/787.9cd28337.chunk.js": "/react-froala-bug-320-poc/static/js/787.9cd28337.chunk.js",
+    "index.html": "/react-froala-bug-320-poc/index.html",
+    "main.376cbf09.css.map": "/react-froala-bug-320-poc/static/css/main.376cbf09.css.map",
+    "main.d0b62f0f.js.map": "/react-froala-bug-320-poc/static/js/main.d0b62f0f.js.map",
+    "787.9cd28337.chunk.js.map": "/react-froala-bug-320-poc/static/js/787.9cd28337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.376cbf09.css",
-    "static/js/main.de674b2c.js"
+    "static/js/main.d0b62f0f.js"
   ]
 }
