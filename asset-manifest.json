@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-froala-bug-320-poc/static/css/main.376cbf09.css",
-    "main.js": "/react-froala-bug-320-poc/static/js/main.d0b62f0f.js",
+    "main.js": "/react-froala-bug-320-poc/static/js/main.61380fa8.js",
     "static/js/787.9cd28337.chunk.js": "/react-froala-bug-320-poc/static/js/787.9cd28337.chunk.js",
     "index.html": "/react-froala-bug-320-poc/index.html",
     "main.376cbf09.css.map": "/react-froala-bug-320-poc/static/css/main.376cbf09.css.map",
-    "main.d0b62f0f.js.map": "/react-froala-bug-320-poc/static/js/main.d0b62f0f.js.map",
+    "main.61380fa8.js.map": "/react-froala-bug-320-poc/static/js/main.61380fa8.js.map",
     "787.9cd28337.chunk.js.map": "/react-froala-bug-320-poc/static/js/787.9cd28337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.376cbf09.css",
-    "static/js/main.d0b62f0f.js"
+    "static/js/main.61380fa8.js"
   ]
 }
